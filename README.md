@@ -1,3 +1,3 @@
 # SolarSystem
 C++ Opengl 
-runging in ubuntu 18.04
+running in ubuntu 18.04
